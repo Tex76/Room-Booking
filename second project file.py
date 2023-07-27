@@ -5,3 +5,4 @@ for i in range(1,100):
 var = input("what is your name? ")
 
 print("welcome to your home " + var)
+# every thing is up to data
